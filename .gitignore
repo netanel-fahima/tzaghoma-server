@@ -1,0 +1,48 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Packages
+packages/
+*.nupkg
+*.snupkg
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Azure
+.localhistory/
+*.publishsettings
+*.azurePubxml
+*.azurePubxml.user
+
+# Rider
+.idea/
+
+# Backup files
+*.bak
+*.swp
+
+# Other
+*.DS_Store
+Thumbs.db
